@@ -43,6 +43,8 @@ welcomeYoungPrince({
 // My young prince is now serving in the Polish multinational as a CTO
 // He now a responsible citizen.
 // You are welcome to the first day at work
+// This implements inheritance by using the extends keyword
+// I extends the "Interface Person" on the "interface Citizen"
 function executiveYoungPrince(info: Citizen){
     console.log("Hello Love, you are such a responsible Prince. I am well pleased with you.")
     console.log(info)
